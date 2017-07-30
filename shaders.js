@@ -12,7 +12,7 @@ for (let i = 0; i < WIDTH; i += 1) {
     // draw another mask
     for (let x = 0; x < SIZE; x += 1) {
       for (let y = 0; y < SIZE; y += 1) {
-        const sh = (((x / 10) ** 2) / 3) + (((y / 10) ** 2) / 3);
+        const sh = (((x / 10) ** 3) / 3) + (((y / 10) ** 3) / 3);
         setPixel((i * SIZE) + x, (j * SIZE) + y, sh);
       }
     }
