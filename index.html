@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    * {
+      padding: 0;
+      margin: 0;
+    }
+    body {
+      background-color: #FFF;
+    }
+    #bottom {
+      display: flex;
+      margin: 0 auto;
+      box-shadow: 4px 8px 30px rgba(0,0,0,0.7);
+    }
+    #top {
+      position:relative;
+      top: -480px;
+      display: flex;
+      margin: 0 auto;
+    }
+    #topper {
+      position:relative;
+      top: -960px;
+      display: flex;
+      margin: 0 auto;
+    }
+    #wrapper {
+      display: block;
+      margin: 30px auto;
+    }
+  </style>
+</head>
+<body>
+  <div id="wrapper">
+    <canvas id="bottom" width="640" height="480"></canvas>
+    <canvas id="top" width="640" height="480"></canvas>
+    <canvas id="topper" width="640" height="480"></canvas>
+  </div>
+  <script>
+    const WIDTH = 64;
+    const HEIGHT = 46;
+    let LEVEL = 1;
+  </script>
+  <script src="./thing.js"></script>
+  <script src="./hills.js"></script>
+  <script src="./lightning.js"></script>
+  <script src="./clouds.js"></script>
+  <script src="./drop.js"></script>
+  <script src="./rain.js"></script>
+  <script src="./wall.js"></script>
+  <script src="./walls.js"></script>
+  <script src="./player.js"></script>
+  <script src="./render.js"></script>
+  <script src="./shaders.js"></script>
+  <script src="./lighting.js"></script>
+</body>
+</html>
