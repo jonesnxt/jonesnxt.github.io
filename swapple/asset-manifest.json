@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/swapple/static/css/main.073c9b0a.css",
+    "main.js": "/swapple/static/js/main.c422c37d.js",
+    "static/media/instructions2.png": "/swapple/static/media/instructions2.cefdaddf506cc1153bce.png",
+    "index.html": "/swapple/index.html",
+    "main.073c9b0a.css.map": "/swapple/static/css/main.073c9b0a.css.map",
+    "main.c422c37d.js.map": "/swapple/static/js/main.c422c37d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.c422c37d.js"
+  ]
+}
