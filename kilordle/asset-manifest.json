@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/kilordle/static/css/main.073c9b0a.css",
+    "main.css": "/kilordle/static/css/main.eba143d2.css",
     "main.js": "/kilordle/static/js/main.3e746e90.js",
     "static/js/787.c697ee3f.chunk.js": "/kilordle/static/js/787.c697ee3f.chunk.js",
     "index.html": "/kilordle/index.html",
-    "main.073c9b0a.css.map": "/kilordle/static/css/main.073c9b0a.css.map",
+    "main.eba143d2.css.map": "/kilordle/static/css/main.eba143d2.css.map",
     "main.3e746e90.js.map": "/kilordle/static/js/main.3e746e90.js.map",
     "787.c697ee3f.chunk.js.map": "/kilordle/static/js/787.c697ee3f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
+    "static/css/main.eba143d2.css",
     "static/js/main.3e746e90.js"
   ]
 }
