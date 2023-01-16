@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/kilordle/static/css/main.eba143d2.css",
-    "main.js": "/kilordle/static/js/main.1cff5d42.js",
+    "main.js": "/kilordle/static/js/main.5a40d0d3.js",
     "index.html": "/kilordle/index.html",
     "main.eba143d2.css.map": "/kilordle/static/css/main.eba143d2.css.map",
-    "main.1cff5d42.js.map": "/kilordle/static/js/main.1cff5d42.js.map"
+    "main.5a40d0d3.js.map": "/kilordle/static/js/main.5a40d0d3.js.map"
   },
   "entrypoints": [
     "static/css/main.eba143d2.css",
-    "static/js/main.1cff5d42.js"
+    "static/js/main.5a40d0d3.js"
   ]
 }
